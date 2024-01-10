@@ -4,7 +4,7 @@
 // Object.create -> Singleton // Constructor method
 
 const mySym = Symbol("key1")
-
+console.log(ty);
 const JsUser = {
     name: "Teesha",
     "full name": "Teesha Ghevariya", 
@@ -23,6 +23,7 @@ const JsUser = {
 // console.log(typeof JsUser.mySym);
 // console.log(JsUser[mySym]);
 // console.log(typeof JsUser[mySym]);
+// console.log(typeof mySym); //Symbol
 
 
 JsUser.email = "tishaghevariya@microsoft.com"
