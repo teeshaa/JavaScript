@@ -46,5 +46,3 @@ const chai = () => {
 
 // const addTwo = (num1, num2) => ( num1 + num2 )
 // const addTwo = (num1, num2) => ({username: "Teesha"})
-
-console.log(addTwo(2, 2));
